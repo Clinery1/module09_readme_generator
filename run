@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+tsc -t es2022 -m es2022 index.ts
+node index.js
